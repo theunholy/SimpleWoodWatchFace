@@ -46,12 +46,12 @@ public class SettngsActivity extends MyActivity {
         public List<String> wallpaperCodeList = new ArrayList<String>();
 
         public WallpaperObj() {
-            wallpaperList.add("Wood 1");
-            wallpaperCodeList.add("Wood 1 PAT");
-            wallpaperList.add("Wood 2");
-            wallpaperCodeList.add("Wood 2 PAT");
-            wallpaperList.add("Wood 3");
-            wallpaperCodeList.add("Wood 3 PAT");
+            wallpaperList.add("Wood 1 PAT");
+            wallpaperCodeList.add("Wood 1");
+            wallpaperList.add("Wood 2 PAT");
+            wallpaperCodeList.add("Wood 2");
+            wallpaperList.add("Wood 3 PAT");
+            wallpaperCodeList.add("Wood 3");
             //test
         }
     }
